@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  PATIENT_ID: 
+  SITE_NAME: 
+  COUNTRY_NAME: 
+  FOLLOW_UP: MyString
+
+two:
+  PATIENT_ID: 
+  SITE_NAME: 
+  COUNTRY_NAME: 
+  FOLLOW_UP: MyString

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  PATIENT_ID: 1
+  SITE_NAME: MyString
+  COUNTRY_NAME: MyString
+  DELAY_DAYS: 1
+
+two:
+  PATIENT_ID: 1
+  SITE_NAME: MyString
+  COUNTRY_NAME: MyString
+  DELAY_DAYS: 1

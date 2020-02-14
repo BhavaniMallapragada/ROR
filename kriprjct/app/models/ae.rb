@@ -1,0 +1,3 @@
+class Ae < ApplicationRecord
+  
+end
